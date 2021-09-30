@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ahmed  
+- 👀 I’m interested in web develobment
+- 🌱 I’m currently learning computerscience for web programming ( CS50)
